@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1221493",
+      "name": "酒店",
+      "font_class": "hotel",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "3854350",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "4762107",
+      "name": "双向下箭头",
+      "font_class": "shuangxiangxiajiantou",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "11495070",
+      "name": "注意",
+      "font_class": "zhuyi",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12941990",
+      "name": "公寓",
+      "font_class": "gongyu",
+      "unicode": "ea76",
+      "unicode_decimal": 60022
+    }
+  ]
+}
